@@ -1,0 +1,2954 @@
+[
+    {
+        "question_id": "page4_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 4,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_4/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page4_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 4,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_4/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page4_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 4,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_4/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page4_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 4,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_4/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page5_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 5,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_5/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page5_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 5,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_5/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page5_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 5,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_5/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page5_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 5,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_5/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page6_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 6,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_6/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page6_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 6,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_6/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page6_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 6,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_6/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page6_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 6,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_6/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page7_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 7,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_7/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page7_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 7,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_7/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page7_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 7,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_7/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page7_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 7,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_7/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page8_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 8,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_8/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page8_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 8,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_8/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page8_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 8,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_8/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page8_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 8,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_8/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page9_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 9,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_9/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page9_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 9,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_9/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page9_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 9,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_9/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page9_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 9,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_9/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page10_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 10,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_10/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page10_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 10,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_10/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page10_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 10,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_10/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page10_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 10,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_10/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page11_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 11,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_11/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page11_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 11,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_11/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page11_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 11,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_11/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page11_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 11,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_11/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page12_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 12,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_12/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page12_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 12,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_12/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page12_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 12,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_12/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page12_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 12,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_12/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page13_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 13,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_13/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page13_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 13,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_13/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page13_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 13,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_13/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page13_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 13,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_13/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page14_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 14,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_14/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page14_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 14,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_14/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page14_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 14,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_14/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page14_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 14,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_14/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page15_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 15,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_15/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page15_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 15,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_15/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page15_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 15,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_15/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page15_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 15,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_15/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page16_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 16,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_16/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page16_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 16,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_16/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page16_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 16,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_16/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page16_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 16,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_16/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page17_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 17,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_17/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page17_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 17,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_17/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page17_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 17,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_17/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page17_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 17,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_17/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page18_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 18,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_18/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page18_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 18,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_18/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page18_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 18,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_18/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page18_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 18,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_18/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page19_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 19,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_19/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page19_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 19,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_19/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page19_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 19,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_19/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page19_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 19,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_19/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page20_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 20,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_20/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page20_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 20,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_20/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page20_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 20,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_20/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page20_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 20,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_20/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page21_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 21,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_21/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page21_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 21,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_21/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page21_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 21,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_21/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page21_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 21,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_21/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page22_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 22,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_22/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page22_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 22,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_22/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page22_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 22,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_22/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page22_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 22,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_22/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page23_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 23,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_23/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page23_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 23,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_23/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page23_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 23,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_23/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page23_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 23,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_23/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page24_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 24,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_24/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page24_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 24,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_24/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page24_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 24,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_24/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page24_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 24,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_24/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page25_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 25,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_25/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page25_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 25,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_25/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page25_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 25,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_25/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page25_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 25,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_25/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page26_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 26,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_26/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page26_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 26,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_26/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page27_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 27,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_27/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page27_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 27,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_27/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page28_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 28,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_28/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page28_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 28,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_28/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page29_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 29,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_29/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page29_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 29,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_29/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page30_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 30,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_30/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page30_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 30,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_30/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page31_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 31,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_31/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page31_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 31,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_31/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page32_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 32,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_32/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page32_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 32,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_32/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page33_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 33,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_33/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page33_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 33,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_33/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page34_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 34,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_34/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page34_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 34,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_34/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page35_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 35,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_35/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page35_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 35,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_35/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page36_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 36,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_36/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page36_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 36,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_36/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page37_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 37,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_37/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page37_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 37,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_37/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page38_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 38,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_38/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page38_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 38,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_38/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page39_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 39,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_39/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page39_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 39,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_39/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page40_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 40,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_40/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page40_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 40,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_40/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page41_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 41,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_41/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page41_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 41,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_41/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page42_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 42,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_42/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page42_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 42,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_42/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page43_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 43,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_43/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page43_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 43,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_43/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page44_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 44,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_44/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page44_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 44,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_44/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page45_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 45,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_45/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page45_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 45,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_45/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page46_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 46,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_46/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page46_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 46,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_46/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page47_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 47,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_47/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page47_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 47,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_47/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page48_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 48,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_48/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page48_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 48,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_48/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page49_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 49,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_49/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page49_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 49,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_49/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page50_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 50,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_50/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page50_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 50,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_50/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page50_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 50,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_50/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page50_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 50,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_50/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page51_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 51,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_51/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page51_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 51,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_51/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page51_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 51,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_51/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page51_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 51,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_51/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page52_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 52,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_52/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page52_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 52,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_52/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page52_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 52,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_52/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page52_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 52,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_52/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page53_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 53,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_53/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page53_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 53,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_53/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page53_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 53,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_53/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page53_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 53,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_53/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page54_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 54,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_54/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page54_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 54,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_54/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page54_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 54,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_54/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page54_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 54,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_54/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page55_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 55,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_55/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page55_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 55,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_55/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page55_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 55,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_55/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page55_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 55,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_55/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page56_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 56,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_56/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page56_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 56,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_56/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page56_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 56,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_56/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page56_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 56,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_56/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page57_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 57,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_57/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page57_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 57,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_57/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page57_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 57,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_57/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page57_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 57,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_57/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page58_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 58,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_58/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page58_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 58,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_58/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page58_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 58,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_58/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page58_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 58,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_58/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page59_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 59,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_59/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page59_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 59,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_59/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page59_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 59,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_59/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page59_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 59,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_59/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page60_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 60,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_60/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page60_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 60,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_60/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page60_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 60,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_60/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page60_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 60,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_60/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page61_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 61,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_61/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page61_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 61,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_61/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page61_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 61,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_61/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page61_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 61,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_61/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page62_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 62,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_62/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page62_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 62,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_62/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page62_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 62,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_62/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page62_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 62,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_62/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page63_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 63,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_63/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page63_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 63,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_63/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page63_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 63,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_63/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page63_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 63,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_63/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page64_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 64,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_64/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page64_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 64,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_64/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page64_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 64,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_64/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page64_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 64,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_64/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page65_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 65,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_65/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page65_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 65,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_65/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page65_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 65,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_65/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page65_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 65,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_65/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page66_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 66,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_66/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page66_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 66,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_66/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page66_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 66,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_66/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page66_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 66,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_66/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page67_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 67,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_67/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page67_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 67,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_67/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page67_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 67,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_67/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page67_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 67,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_67/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page68_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 68,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_68/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page68_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 68,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_68/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page68_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 68,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_68/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page68_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 68,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_68/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page69_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 69,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_69/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page69_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 69,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_69/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page69_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 69,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_69/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page69_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 69,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_69/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page70_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 70,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_70/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page70_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 70,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_70/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page70_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 70,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_70/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page70_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 70,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_70/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page71_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 71,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_71/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page71_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 71,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_71/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page71_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 71,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_71/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page71_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 71,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_71/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page72_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 72,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_72/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page72_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 72,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_72/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page72_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 72,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_72/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page72_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 72,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_72/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page73_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 73,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_73/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page73_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 73,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_73/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page73_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 73,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_73/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page73_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 73,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_73/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page74_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 74,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_74/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page74_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 74,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_74/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page74_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 74,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_74/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page74_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 74,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_74/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page75_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 75,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_75/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page75_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 75,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_75/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page75_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 75,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_75/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page75_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 75,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_75/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page76_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 76,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_76/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page76_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 76,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_76/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page76_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 76,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_76/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page76_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 76,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_76/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page77_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 77,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_77/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page77_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 77,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_77/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page77_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 77,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_77/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page77_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 77,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_77/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page78_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 78,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_78/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page78_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 78,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_78/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page78_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 78,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_78/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page78_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 78,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_78/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page79_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 79,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_79/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page79_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 79,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_79/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page79_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 79,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_79/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page79_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 79,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_79/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page80_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 80,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_80/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page80_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 80,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_80/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page80_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 80,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_80/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page80_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 80,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_80/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page81_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 81,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_81/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page81_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 81,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_81/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page81_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 81,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_81/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page81_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 81,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_81/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page82_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 82,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_82/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page82_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 82,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_82/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page82_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 82,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_82/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page82_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 82,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_82/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page83_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 83,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_83/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page83_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 83,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_83/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page83_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 83,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_83/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page83_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 83,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_83/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page84_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 84,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_84/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page84_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 84,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_84/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page84_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 84,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_84/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page84_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 84,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_84/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page85_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 85,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_85/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page85_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 85,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_85/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page85_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 85,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_85/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page85_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 85,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_85/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page86_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 86,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_86/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page86_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 86,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_86/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page86_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 86,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_86/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page86_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 86,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_86/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page87_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 87,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_87/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page87_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 87,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_87/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page87_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 87,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_87/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page87_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 87,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_87/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page88_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 88,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_88/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page88_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 88,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_88/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page88_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 88,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_88/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page88_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 88,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_88/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page89_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 89,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_89/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page89_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 89,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_89/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page89_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 89,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_89/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page89_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 89,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_89/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page90_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 90,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_90/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page90_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 90,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_90/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page90_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 90,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_90/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page90_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 90,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_90/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page91_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 91,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_91/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page91_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 91,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_91/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page91_4b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 91,
+        "problem_label": "4b.",
+        "set": "SET 4",
+        "question_image": "page_91/problem_4b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page91_4a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 91,
+        "problem_label": "4a.",
+        "set": "SET 4",
+        "question_image": "page_91/problem_4a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page92_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 92,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_92/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page92_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 92,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_92/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page93_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 93,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_93/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page93_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 93,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_93/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page94_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 94,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_94/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page94_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 94,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_94/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page96_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 96,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_96/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page96_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 96,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_96/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page97_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 97,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_97/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page97_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 97,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_97/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page98_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 98,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_98/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page98_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 98,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_98/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page100_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 100,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_100/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page100_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 100,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_100/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page101_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 101,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_101/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page101_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 101,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_101/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page102_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 102,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_102/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page102_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 102,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_102/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page104_1a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 104,
+        "problem_label": "1a.",
+        "set": "SET 1",
+        "question_image": "page_104/problem_1a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page104_1b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 104,
+        "problem_label": "1b.",
+        "set": "SET 1",
+        "question_image": "page_104/problem_1b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page105_2a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 105,
+        "problem_label": "2a.",
+        "set": "SET 2",
+        "question_image": "page_105/problem_2a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page105_2b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 105,
+        "problem_label": "2b.",
+        "set": "SET 2",
+        "question_image": "page_105/problem_2b.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page106_3a",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 106,
+        "problem_label": "3a.",
+        "set": "SET 3",
+        "question_image": "page_106/problem_3a.png",
+        "extraction_method": "blank_workbook_extraction"
+    },
+    {
+        "question_id": "page106_3b",
+        "source_file": "../../data/algebra_dataset/blank_workbook/abePROBLEMworkbook.pdf",
+        "source_pdf_page": 106,
+        "problem_label": "3b.",
+        "set": "SET 3",
+        "question_image": "page_106/problem_3b.png",
+        "extraction_method": "blank_workbook_extraction"
+    }
+]

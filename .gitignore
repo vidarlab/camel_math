@@ -1,0 +1,15 @@
+.env
+.env.*
+code/.env
+code/.env.*
+
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Large algebra dataset files
+data/algebra_dataset/answer_crops/
+data/algebra_dataset/answer_crops_unlocated/
+data/algebra_dataset/blank_workbook/
+data/algebra_dataset/problem_crops/
+data/algebra_dataset/student_workbook/
