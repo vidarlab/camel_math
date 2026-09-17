@@ -1,23 +1,17 @@
-Code for creating and analyzing student mathematical work.
+Updated and cleaned version of the student math pipeline!
 
 ## Dataset Creation
 
-Pipeline for extracting questions from blank algebra workbooks, aligning student workbook scans, extracting student answers, and building the final dataset metadata.
+Contains the pipeline for extracting questions and student answers from algebra workbooks and organizing them into the final dataset.
 
-## Review Tools
+## Review Apps
 
-Apps for manually reviewing extracted questions, student answers, and workbook pages.
+Contains simple review tools for checking extracted questions, answers, and workbook pages.
 
 ## Representation Analysis
 
-Tools for evaluating pretrained visual encoders on student mathematical work, including:
-
-- Pretrained encoder loading
-- Representation extraction
-- Cosine similarity analysis
-- Linear probing
-- Reconstruction experiments
+Contains experiments for exploring different pretrained representations of student work, including representation extraction, similarity analysis, linear probing, and reconstruction.
 
 ## Models
 
-Pretrained visual encoders and supporting model definitions used for representation analysis.
+Contains the model definitions and pretrained encoder loading used for the representation experiments.
