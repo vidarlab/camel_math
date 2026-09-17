@@ -5,3 +5,5 @@ pymupdf
 pytesseract
 python-dotenv
 requests
+torch
+torchvision

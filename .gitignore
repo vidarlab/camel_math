@@ -13,3 +13,20 @@ data/algebra_dataset/answer_crops_unlocated/
 data/algebra_dataset/blank_workbook/
 data/algebra_dataset/problem_crops/
 data/algebra_dataset/student_workbook/
+
+# Large pretrained model checkpoints
+models/pretrained/*.pth
+
+# Shell scripts (cluster job launchers)
+*.sh
+
+# SLURM job logs
+*.err
+*.out
+
+# Model checkpoints, tensors, and extracted representations
+*.pt
+*.pth
+
+# Reconstruction training outputs
+data/algebra_dataset/reconstruction/

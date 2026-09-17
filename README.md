@@ -12,6 +12,8 @@ Tools for extracting algebra workbook questions from a blank reference PDF, alig
 - `code/review_apps/question_review_app.py` - review extracted questions.
 - `code/review_apps/answer_review_app.py` - review one student's answers.
 - `code/review_apps/page_review_app.py` - review all answers on selected pages.
+- `code/models/sketch_encoder.py` - ResNet-50 sketch encoder definition and loader for the QuickDraw Vectorization checkpoint.
+- `models/pretrained/` - pretrained checkpoints (gitignored; see `quickdraw_vectorization_resnet50.pth`).
 
 ## Setup
 

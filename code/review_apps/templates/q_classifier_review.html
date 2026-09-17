@@ -1,0 +1,413 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CAMEL Frozen Representation Classifier</title>
+<style>
+  :root {
+    --line: #d9dde3;
+    --ink: #1b1f24;
+    --muted: #5c6672;
+    --bg: #f4f6f8;
+    --card: #ffffff;
+    --correct: #1a7f37;
+    --correct-bg: #e8f5ec;
+    --partial: #9a6700;
+    --partial-bg: #fdf3d8;
+    --failure: #b42318;
+    --failure-bg: #fdeceb;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    padding: 0 24px 64px;
+    background: var(--bg);
+    color: var(--ink);
+    font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+
+  .wrap { max-width: 1600px; margin: 0 auto; }
+
+  h1 { font-size: 21px; margin: 24px 0 4px; }
+
+  .subtitle { color: var(--muted); margin: 0 0 20px; font-size: 14px; }
+
+  /* ---- controls ------------------------------------------------------ */
+
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 14px 16px;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+  }
+
+  select, input[type="number"] {
+    font: inherit;
+    padding: 7px 9px;
+    border: 1px solid var(--line);
+    border-radius: 7px;
+    background: #fff;
+    color: var(--ink);
+  }
+
+  select { min-width: 330px; }
+
+  input[type="number"] { width: 108px; }
+
+  .btn {
+    font: inherit;
+    padding: 7px 14px;
+    border: 1px solid var(--line);
+    border-radius: 7px;
+    background: #fff;
+    color: var(--ink);
+    text-decoration: none;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+
+  .btn:hover { background: #eef1f5; }
+
+  .btn.primary { background: var(--ink); border-color: var(--ink); color: #fff; }
+
+  .btn.primary:hover { background: #333b45; }
+
+  .btn.disabled { opacity: .4; pointer-events: none; }
+
+  .spacer { flex: 1 1 auto; }
+
+  /* ---- example header ------------------------------------------------ */
+
+  .meta {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 16px 18px;
+    margin-top: 16px;
+  }
+
+  .meta h2 { font-size: 17px; margin: 0 0 10px; }
+
+  .facts { display: flex; flex-wrap: wrap; gap: 8px 28px; margin: 0; }
+
+  .facts div { font-size: 14px; }
+
+  .facts span { color: var(--muted); }
+
+  code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 13px;
+    background: #eef1f5;
+    padding: 1px 6px;
+    border-radius: 4px;
+  }
+
+  .prompt {
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid var(--line);
+    font-size: 14px;
+  }
+
+  .prompt .section { color: var(--muted); font-style: italic; }
+
+  /* ---- image panels -------------------------------------------------- */
+
+  .pair {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-top: 16px;
+  }
+
+  .panel {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 14px 16px;
+  }
+
+  .panel h3 {
+    margin: 0 0 10px;
+    font-size: 12px;
+    letter-spacing: .09em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  /* Crops are wide and short; contain keeps every stroke visible. */
+  .shot {
+    display: block;
+    width: 100%;
+    height: 340px;
+    object-fit: contain;
+    background: #fff;
+    border: 1px solid var(--line);
+    border-radius: 7px;
+  }
+
+  .missing {
+    height: 340px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px dashed var(--line);
+    border-radius: 7px;
+    color: var(--muted);
+    font-size: 14px;
+  }
+
+  /* ---- encoder sections ---------------------------------------------- */
+
+  .encoder { margin-top: 28px; }
+
+  .encoder-head {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: baseline;
+    border-bottom: 2px solid var(--line);
+    padding-bottom: 8px;
+  }
+
+  .encoder-head h2 { font-size: 19px; margin: 0; }
+
+  .status {
+    font-size: 13px;
+    font-weight: 600;
+    padding: 3px 11px;
+    border-radius: 999px;
+  }
+
+  .status.correct { color: var(--correct); background: var(--correct-bg); }
+  .status.partial { color: var(--partial); background: var(--partial-bg); }
+  .status.failure { color: var(--failure); background: var(--failure-bg); }
+
+  /* The Top-5 reads left to right, rank #1 first. Five fixed-minimum columns
+     scroll sideways rather than shrinking when the window is narrow. */
+  .preds {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(250px, 1fr);
+    gap: 14px;
+    margin-top: 14px;
+    overflow-x: auto;
+    padding-bottom: 8px;
+  }
+
+  .pred {
+    display: flex;
+    flex-direction: column;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-top: 6px solid var(--line);
+    border-radius: 10px;
+    padding: 12px 14px 14px;
+  }
+
+  /* The ground-truth question is called out on every axis available. */
+  .pred.actual {
+    border-color: var(--correct);
+    background: var(--correct-bg);
+  }
+
+  .pred .head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 10px;
+  }
+
+  .pred .rank { font-size: 20px; font-weight: 700; color: var(--muted); }
+
+  .pred.actual .rank { color: var(--correct); }
+
+  .pred .qid { font-size: 13px; margin-top: 3px; word-break: break-all; }
+
+  .pred .prob { font-size: 20px; font-weight: 700; white-space: nowrap; }
+
+  /* Pushes every crop to the same baseline even when a card carries a badge. */
+  .pred .shot-link { margin-top: auto; padding-top: 10px; }
+
+  .bar {
+    height: 7px;
+    border-radius: 999px;
+    background: #e3e7ec;
+    margin-top: 8px;
+    overflow: hidden;
+  }
+
+  .bar i { display: block; height: 100%; background: var(--muted); }
+
+  .pred.actual .bar i { background: var(--correct); }
+
+  .tag {
+    display: inline-block;
+    margin-top: 9px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: .05em;
+    color: #fff;
+    background: var(--correct);
+    padding: 3px 9px;
+    border-radius: 999px;
+  }
+
+  .pred .shot { height: 230px; }
+
+  .pred .missing { height: 230px; margin-top: auto; }
+
+  @media (max-width: 900px) {
+    .pair { grid-template-columns: 1fr; }
+    select { min-width: 0; width: 100%; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h1>CAMEL Frozen Representation Classifier</h1>
+  <p class="subtitle">
+    Held-out student answers, and what each frozen pretrained representation
+    thinks the answer was written for. The encoders were never fine-tuned on
+    CAMEL — only a linear question-ID classifier was trained on the frozen
+    features.
+  </p>
+
+  {# action="." keeps every request relative to the directory this page was
+     served from, so a reverse-proxy path prefix is preserved. #}
+  <form class="controls" method="get" action=".">
+    <input type="hidden" name="previous_category" value="{{ category }}">
+
+    <label for="category"><strong>Case type</strong></label>
+
+    <select id="category" name="category">
+      {% for name in categories %}
+        <option value="{{ name }}" {% if name == category %}selected{% endif %}>
+          {{ name }} ({{ counts[name] }})
+        </option>
+      {% endfor %}
+    </select>
+
+    {% if position > 1 %}
+      <a class="btn" href="?category={{ category|urlencode }}&amp;example={{ position - 1 }}">&larr; Previous</a>
+    {% else %}
+      <span class="btn disabled">&larr; Previous</span>
+    {% endif %}
+
+    <input type="number" name="example" min="1" max="{{ total }}"
+           value="{{ position }}" aria-label="Example number">
+
+    {% if position < total %}
+      <a class="btn" href="?category={{ category|urlencode }}&amp;example={{ position + 1 }}">Next &rarr;</a>
+    {% else %}
+      <span class="btn disabled">Next &rarr;</span>
+    {% endif %}
+
+    <button class="btn primary" type="submit">Go</button>
+
+    <span class="spacer"></span>
+
+    <span style="color:var(--muted); font-size:14px;">
+      Example {{ position }} of {{ total }}
+    </span>
+  </form>
+
+  <div class="meta">
+    <h2>Example {{ position }} of {{ total }} — {{ category }}</h2>
+
+    <div class="facts">
+      <div><span>Answer ID</span> <code>{{ answer_id }}</code></div>
+      <div><span>Student ID</span> <code>{{ student_id }}</code></div>
+      <div><span>Actual question ID</span> <code>{{ actual_question_id }}</code></div>
+    </div>
+
+    {% if problem_instructions or section_instructions %}
+      <div class="prompt">
+        {% if problem_instructions %}
+          <div><strong>Prompt:</strong> {{ problem_instructions }}</div>
+        {% endif %}
+        {% if section_instructions %}
+          <div class="section">{{ section_instructions }}</div>
+        {% endif %}
+      </div>
+    {% endif %}
+  </div>
+
+  <div class="pair">
+    <div class="panel">
+      <h3>Student answer</h3>
+      {% if answer_available %}
+        <a href="answer-image/{{ index }}" target="_blank" rel="noopener">
+          <img class="shot" src="answer-image/{{ index }}"
+               alt="Student answer crop for answer {{ answer_id }}">
+        </a>
+      {% else %}
+        <div class="missing">answer crop not found on disk</div>
+      {% endif %}
+    </div>
+
+    <div class="panel">
+      <h3>Actual question &mdash; {{ actual_question_id }}</h3>
+      {% if question_available %}
+        <a href="question-image/{{ actual_question_id }}" target="_blank" rel="noopener">
+          <img class="shot" src="question-image/{{ actual_question_id }}"
+               alt="Question crop for {{ actual_question_id }}">
+        </a>
+      {% else %}
+        <div class="missing">question crop not found on disk</div>
+      {% endif %}
+    </div>
+  </div>
+
+  {% for model in models %}
+    <section class="encoder">
+      <div class="encoder-head">
+        <h2>{{ model.name }}</h2>
+        <span class="status {{ model.status_class }}">{{ model.status }}</span>
+      </div>
+
+      <div class="preds">
+        {% for p in model.predictions %}
+          <div class="pred {% if p.is_actual %}actual{% endif %}">
+            <div class="head">
+              <span class="rank">#{{ p.rank }}</span>
+              <span class="prob">{{ "%.2f"|format(p.probability) }}%</span>
+            </div>
+
+            <div class="qid"><code>{{ p.question_id }}</code></div>
+
+            <div class="bar"><i style="width: {{ "%.1f"|format(p.probability) }}%"></i></div>
+
+            {% if p.is_actual %}
+              <span class="tag">GROUND TRUTH</span>
+            {% endif %}
+
+            {% if p.available %}
+              <a class="shot-link" href="question-image/{{ p.question_id }}"
+                 target="_blank" rel="noopener">
+                <img class="shot" src="question-image/{{ p.question_id }}"
+                     alt="Question crop for {{ p.question_id }}">
+              </a>
+            {% else %}
+              <div class="missing">question crop not found on disk</div>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    </section>
+  {% endfor %}
+
+</div>
+</body>
+</html>
