@@ -1,34 +1,23 @@
-# Camel Math Dataset Pipeline
+Code for creating and analyzing student mathematical work.
 
-Tools for extracting algebra workbook questions from a blank reference PDF, aligning student workbook scans to that reference, and building answer/question metadata tables.
+## Dataset Creation
 
-## Source Layout
+Pipeline for extracting questions from blank algebra workbooks, aligning student workbook scans, extracting student answers, and building the final dataset metadata.
 
-- `code/dataset_creation/workbook_layout.py` - shared blank-workbook layout detection.
-- `code/dataset_creation/question_extraction.py` - creates question crops and `dataset.json`.
-- `code/dataset_creation/answer_extraction.py` - creates student answer crops using the blank workbook reference.
-- `code/dataset_creation/remove_blank_answers.py` - cleanup pass for crops judged blank.
-- `code/dataset_creation/build_answer_question_index.py` - writes answer/question index and metadata JSON files.
-- `code/review_apps/question_review_app.py` - review extracted questions.
-- `code/review_apps/answer_review_app.py` - review one student's answers.
-- `code/review_apps/page_review_app.py` - review all answers on selected pages.
-- `code/models/sketch_encoder.py` - ResNet-50 sketch encoder definition and loader for the QuickDraw Vectorization checkpoint.
-- `models/pretrained/` - pretrained checkpoints (gitignored; see `quickdraw_vectorization_resnet50.pth`).
+## Review Tools
 
-## Setup
+Apps for manually reviewing extracted questions, student answers, and workbook pages.
 
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
+## Representation Analysis
 
-## Main Commands
+Tools for evaluating pretrained visual encoders on student mathematical work, including:
 
-Run from `code/dataset_creation`:
+- Pretrained encoder loading
+- Representation extraction
+- Cosine similarity analysis
+- Linear probing
+- Reconstruction experiments
 
-```bash
-python3 question_extraction.py
-python3 answer_extraction.py
-python3 build_answer_question_index.py
-```
+## Models
+
+Pretrained visual encoders and supporting model definitions used for representation analysis.
